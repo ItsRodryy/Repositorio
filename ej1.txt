@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaa
 aaaaaaaaaa
 aaa
@@ -16,3 +17,14 @@ bee
 bs
 bes
 sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+=======
+dsawadsawdsawadswads
+ythjtyhjghjtyjh
+gj
+yg
+jy
+gj
+ygj
+ygjyg
+hola, conflicto hola hola
+>>>>>>> 7727d641f708abdfed8fe02430ee410c170fde4c
